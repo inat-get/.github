@@ -1,3 +1,3 @@
-<img src="./logo.webp" align="right" style="float:right;width:50%;">
+<img src="./logo.webp" align="right" style="float:right;width:40%;">
 
-# INat::Get
+# INat::Get Project
