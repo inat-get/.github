@@ -1,8 +1,8 @@
-<img src="./logo.webp" align="right" style="float:right;width:40%;">
-
 # INat::Get Project
 
 ## [inat-get](https://github.com/inat-get/inat-get)
+
+<img src="./logo.webp" align="right" style="float:right;width:40%;">
 
 *CLI tool for downloading and analyzing iNaturalist biodiversity data*
 
