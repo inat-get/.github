@@ -13,3 +13,15 @@ Key capabilities include downloading observations based on taxonomic, geographic
 ## [inat-channel](https://github.com/inat-get/inat-channel)
 
 *Script for posting selected observation to telegram channel*
+
+A script that sends a random iNaturalist observation from a selected sample to Telegram.
+
++ Obtains a sample via the [iNaturalist API](https://api.inaturalist.org/v2/docs/#/Observations/get_observations) based on an arbitrary query (supported by the API).
+
++ Sends a random observation from the sample to a specified Telegram channel, excluding those already sent. If there are no new observations in the fresh sample, it takes from a saved pool.
+
++ Saves unsent observations obtained via the query into the pool.
+
++ Taxon uniqueness and pool depth are configurable.
+
++ Sends a message to the administrator in case of failures.
