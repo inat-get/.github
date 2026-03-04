@@ -1,4 +1,4 @@
-# INat::Get Project
+# 🌿 iNatGet Project
 
 ## [inat-get](https://github.com/inat-get/inat-get)
 
